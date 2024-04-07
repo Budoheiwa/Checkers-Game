@@ -1,0 +1,15 @@
+Bien le bonjour cher(e)s joueur(e)(s), 
+
+Vo-An Nguyen et Sofian Al Mourabit (les deux créateurs de ce code) vous présentent leur Projet Finale d'IHM.
+Il s'agit d'un jeu de de dame on ne peut plus classique.
+
+Vous aurez accès à differentes sortes de paramètres.
+
+Vous pouvez choisir de jouer contre un ami ou bien contre un ordinateur.
+Il vous sera également possible de sauvegarder une partie pour pouvoir y revenir quand vous le voudrez.
+Vous aurez accès aux règles du jeu si un trou de mémoire vient perturber votre partie.
+Et enfin vous pouvez consulter differentes informations à propos des déplacements de votre partie en cours comme celle déjà terminée.
+
+En ésperant que vous passerez un bon moment sur notre jeu en ces temps difficiles.
+
+Au revoir et bon courage XD.
